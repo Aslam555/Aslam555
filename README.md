@@ -13,7 +13,7 @@
  <img align="left" alt="''                    The_Aslam#6080 Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 <a href="https://github.com/Aslam555/">
-<img align ="left" alt="Boyfie Github" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<img align ="left" alt="Aslam Github" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br/> <br/> 
 
